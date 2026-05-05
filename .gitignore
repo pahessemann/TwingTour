@@ -1,7 +1,9 @@
 backend/database/eurotwingo.sqlite
-backend/database/*.sqlite-journal
-backend/database/*.sqlite-wal
-backend/database/*.sqlite-shm
+backend/database/*.sqlite
+backend/database/*.sqlite3
+backend/database/*.db
+backend/database/*.sqlite-*
+backend/database/*.db-*
 tests/.tmp/
 server.out.log
 server.err.log
