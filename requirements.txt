@@ -1,0 +1,2 @@
+# EuroTwingo runs with the Python standard library only.
+# Keep this file for deployment tools that expect a requirements.txt.

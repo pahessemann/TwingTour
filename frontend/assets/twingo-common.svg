@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 170" role="img" aria-label="Twingo Pop face">
+  <path d="M55 128 C49 112 46 90 51 70 C58 41 78 25 110 25 C142 25 162 41 169 70 C174 90 171 112 165 128 L155 143 L65 143 Z" fill="#ffd84d"/>
+  <path d="M71 69 C77 47 91 37 110 37 C129 37 143 47 149 69 C135 76 85 76 71 69 Z" fill="#9ee8f6"/>
+  <path d="M68 87 C77 82 88 82 96 88 C90 99 74 99 68 87 Z" fill="#fff7a8"/>
+  <path d="M152 87 C143 82 132 82 124 88 C130 99 146 99 152 87 Z" fill="#fff7a8"/>
+  <path d="M75 112 C91 123 129 123 145 112" fill="none" stroke="#263544" stroke-width="7" stroke-linecap="round"/>
+  <path d="M62 121 C82 132 138 132 158 121 L155 143 L65 143 Z" fill="#ff4f7b"/>
+  <circle cx="69" cy="143" r="18" fill="#263544"/>
+  <circle cx="151" cy="143" r="18" fill="#263544"/>
+  <circle cx="69" cy="143" r="8" fill="#eef6ff"/>
+  <circle cx="151" cy="143" r="8" fill="#eef6ff"/>
+  <path d="M92 34 C100 30 120 30 128 34" fill="none" stroke="#f7f7ff" stroke-width="5" stroke-linecap="round"/>
+</svg>

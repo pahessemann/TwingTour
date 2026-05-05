@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 170" role="img" aria-label="Twingo Kenzo face">
+  <path d="M54 128 C49 111 46 90 51 70 C58 41 78 24 110 24 C142 24 162 41 169 70 C174 90 171 111 166 128 L155 144 L65 144 Z" fill="#65c7f7"/>
+  <path d="M71 69 C77 47 91 37 110 37 C129 37 143 47 149 69 C136 77 84 77 71 69 Z" fill="#f7f7ff"/>
+  <path d="M67 87 C77 82 89 82 97 88 C91 99 73 99 67 87 Z" fill="#fff7a8"/>
+  <path d="M153 87 C143 82 131 82 123 88 C129 99 147 99 153 87 Z" fill="#fff7a8"/>
+  <circle cx="83" cy="105" r="7" fill="#f4d35e"/>
+  <circle cx="111" cy="112" r="6" fill="#ee6c4d"/>
+  <circle cx="137" cy="103" r="7" fill="#38b000"/>
+  <path d="M76 121 C96 133 124 133 144 121" fill="none" stroke="#f7f7ff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M62 122 C82 133 138 133 158 122 L155 144 L65 144 Z" fill="#2f80ed"/>
+  <circle cx="69" cy="144" r="18" fill="#1d2937"/>
+  <circle cx="151" cy="144" r="18" fill="#1d2937"/>
+  <circle cx="69" cy="144" r="8" fill="#f7f7ff"/>
+  <circle cx="151" cy="144" r="8" fill="#f7f7ff"/>
+</svg>

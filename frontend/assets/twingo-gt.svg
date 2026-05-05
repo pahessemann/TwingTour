@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 170" role="img" aria-label="Twingo GT face">
+  <path d="M54 128 C49 111 46 90 51 70 C58 40 78 24 110 24 C142 24 162 40 169 70 C174 90 171 111 166 128 L155 144 L65 144 Z" fill="#ff5a3d"/>
+  <path d="M71 69 C77 47 91 37 110 37 C129 37 143 47 149 69 C136 76 84 76 71 69 Z" fill="#dff5ff"/>
+  <path d="M78 37 L94 35 L75 75 L61 75 Z" fill="#f3f7fb"/>
+  <path d="M113 35 L123 36 L104 75 L94 75 Z" fill="#f3f7fb"/>
+  <path d="M66 88 C78 81 91 82 99 89 C92 100 73 100 66 88 Z" fill="#fff7a8"/>
+  <path d="M154 88 C142 81 129 82 121 89 C128 100 147 100 154 88 Z" fill="#fff7a8"/>
+  <path d="M62 120 C83 133 137 133 158 120 L155 144 L65 144 Z" fill="#202020"/>
+  <path d="M80 114 C98 126 122 126 140 114" fill="none" stroke="#ff5a3d" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="69" cy="144" r="19" fill="#111827"/>
+  <circle cx="151" cy="144" r="19" fill="#111827"/>
+  <circle cx="69" cy="144" r="8" fill="#ff5a3d"/>
+  <circle cx="151" cy="144" r="8" fill="#ff5a3d"/>
+</svg>

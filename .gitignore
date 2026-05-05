@@ -1,0 +1,10 @@
+backend/database/eurotwingo.sqlite
+backend/database/*.sqlite-journal
+backend/database/*.sqlite-wal
+backend/database/*.sqlite-shm
+tests/.tmp/
+server.out.log
+server.err.log
+.tools/
+__pycache__/
+*.pyc
